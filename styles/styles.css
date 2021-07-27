@@ -1,9 +1,7 @@
-hmtl {
-padding: 0px;
-margin: 0px;
-}
 
 main {
+  padding: 0px;
+  margin: 0px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
