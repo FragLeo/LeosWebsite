@@ -34,7 +34,9 @@ a {
   text-decoration: none;
   }
 
-.project {
-  background-color: light-grey;
+main .project {
+  padding: 10px;
+  margin: 10px;
+  background-color: #a8a2a3;
   border-radius: 10%;
 }
