@@ -29,3 +29,12 @@ main h1 {
           animation: hg-animation 40000ms infinite alternate;
   padding: 0rem;
   margin: 0rem;
+}
+a {
+  text-decoration: none;
+  }
+
+.project {
+  background-color: light-grey;
+  border-radius: 10%;
+}
